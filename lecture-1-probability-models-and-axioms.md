@@ -47,3 +47,16 @@ Progress: ![](http://progressed.io/bar/50)
 ## 20. Exercise: On countable additivity
 
 ## 21. Interpretations and uses of probabilities
+
+| Excercise | Progress |
+|-----------|----------|
+| [4. Exercise: Sample space]() |  |
+| [6. Exercise: Tree representations]() |  |
+| [8. Exercise: Axioms]() |  |
+| [10. Exercise: Simple properties]() |  |
+| [12. Exercise: More properties]() |  |
+| [14. Exercise: Discrete probability calculations]() |  |
+| [16. Exercise: Continuous probability calculations]() |  |
+| [18. Exercise: Using countable additivity]() |  |
+| [19. Exercise: Uniform probabilities on the integers]() |  |
+| [20. Exercise: On countable additivity]() |  |
