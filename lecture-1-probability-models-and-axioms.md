@@ -1,5 +1,7 @@
 # Lecture 1: Probability Models and Axioms
 
+[Course](https://courses.edx.org/courses/course-v1:MITx+6.431x+3T2018/courseware/Unit_1_Probability_models_and_axioms/Lec__1_Probability_models_and_axioms/1?activate_block_id=block-v1%3AMITx%2B6.431x%2B3T2018%2Btype%40vertical%2Bblock%40ch3-s1-tab1) | [Notes](https://docs.google.com/document/d/17MhP5w5tDFzgdehzwT1iiu-9E8ufhHvapeNaZ-5EIm0/edit#bookmark=id.3sndq65286u0)
+
 Progress: ![](http://progressed.io/bar/50)
 
 # Table of Contents
