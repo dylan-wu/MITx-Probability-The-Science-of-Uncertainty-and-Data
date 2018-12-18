@@ -1,4 +1,4 @@
-# Probability - The Science of Uncertainty and Data
+# MITx Probability - The Science of Uncertainty and Data
 
 # Unit 1: Probability models and axioms
 | Name | Progress |
